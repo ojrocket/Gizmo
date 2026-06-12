@@ -1,0 +1,25 @@
+{
+  "name": "gizmo",
+  "version": "1.0.0",
+  "description": "��#\u0000G\u0000i\u0000z\u0000m\u0000o\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojrocket/Gizmo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ojrocket/Gizmo/issues"
+  },
+  "homepage": "https://github.com/ojrocket/Gizmo#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
